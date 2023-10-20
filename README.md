@@ -1,1 +1,1 @@
-# website landing page - challenge 1 (AJH)
+# website landing page - challenge 1 (ajh)
